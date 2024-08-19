@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TechnologyCards-ReactJS/static/css/main.d3af1711.chunk.css",
+    "main.js": "/TechnologyCards-ReactJS/static/js/main.a1120f30.chunk.js",
+    "main.js.map": "/TechnologyCards-ReactJS/static/js/main.a1120f30.chunk.js.map",
+    "runtime-main.js": "/TechnologyCards-ReactJS/static/js/runtime-main.8727f07d.js",
+    "runtime-main.js.map": "/TechnologyCards-ReactJS/static/js/runtime-main.8727f07d.js.map",
+    "static/js/2.63455d89.chunk.js": "/TechnologyCards-ReactJS/static/js/2.63455d89.chunk.js",
+    "static/js/2.63455d89.chunk.js.map": "/TechnologyCards-ReactJS/static/js/2.63455d89.chunk.js.map",
+    "index.html": "/TechnologyCards-ReactJS/index.html",
+    "static/css/main.d3af1711.chunk.css.map": "/TechnologyCards-ReactJS/static/css/main.d3af1711.chunk.css.map",
+    "static/js/2.63455d89.chunk.js.LICENSE.txt": "/TechnologyCards-ReactJS/static/js/2.63455d89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8727f07d.js",
+    "static/js/2.63455d89.chunk.js",
+    "static/css/main.d3af1711.chunk.css",
+    "static/js/main.a1120f30.chunk.js"
+  ]
+}
